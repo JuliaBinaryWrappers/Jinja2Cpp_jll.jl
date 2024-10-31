@@ -1,0 +1,296 @@
+[[Jinja2Cpp]]
+arch = "aarch64"
+git-tree-sha1 = "657e39a150fb32d037bdf070704b4c6955f63159"
+os = "macos"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "5a57847501dc0f79887c9b4966c7537610c1e8215c00c17542d2fa89e9bb3f27"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.aarch64-apple-darwin.tar.gz"
+[[Jinja2Cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b364793758ce819f5a4a0589bd95bf04e56cb32a"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "fd8ca0f3c52df61461d391db3ee33c0393d10500843aa12b3ef875c40a0179ac"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a55034f975fc40e178dcd373c907b4c6ac955d0f"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "1a8589497fda27bae2ada17df2e39a2bac5094559013bb26c52e738c0122e585"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fde77a8dcec9591b3098e1f00d18c89dabb69373"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "67a595796e27c2e21596b3d286b0778c929c00cb957c23c48f2b9c57590a1663"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c94fb024a7b9d6c82efb2fbf7a3a600e055d9ded"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "70ca76ea82c19c90533aae32259efe333f3baa4eaaaaa1ece7025387771fc1e3"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "aarch64"
+git-tree-sha1 = "c4a612803111a7d2e67e9627226647fff53ca6e1"
+os = "freebsd"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "a7c211f8811faa098a56993d8395edc80a51aaf73d125411fa3289502163495c"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.aarch64-unknown-freebsd.tar.gz"
+[[Jinja2Cpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2aaa5f5bd220543daa71f0f91bb40b0e43411b29"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "51602a3fe4630d4cf9545d94aa1a812b625a01f1987bc23bafea911bb2210e6a"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ff95d1c61961d0e327acd83fdcabadea6d40a7e"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "bcb01423943028716d90a02111d98e7e61cc046024a7c5104836f64f535101a3"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81779108741f47f3629b33f47f6ee5b14084fae1"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "2020377cc0daeb357aa9514546c464086837ec06bfa948c6c84aad34a9c8987b"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "988c60f636574264fba5f7309cf1d5b36afd02b5"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "9095b0a3d19a9cbbb92b19517fc982c7199019af612a0c033627b28c35ea3555"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b1119fa482240976cc0210f39a54455399fcdf93"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "1ca5a6d13159dcb3b7e4e3f71bc4b6c1e37a832e78cad3000132b2cfbf4d22b7"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "79d49fb2ac70ef7408ee1e0cadb572538ddd71ab"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "4e8733524217cedd06a47769a168c8c351761da0e75baddb7a68147fc8a8f449"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ffd54cf06a488eb73e4247165601060889d64155"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "03cbeee6fb8f4e4ca1bcebe31e635b6e3a5360293940d3130f7181d27c6e0778"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11f63e4651c989336e6b27fae3dd35454fb96865"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "73b8260ff82017b4de91c7b5eb6de6a309b78005b0a158abc4ea8a313f69c28a"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bc169ab869986377b833a0fe7db07338c024eeb5"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "2d55bb9e1c046f1c428e064c06ccdff0538304334bf0f4701bfcbac9160252ca"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.i686-linux-gnu-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4d919596f829690c123c435e0166395a32e88b6"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "eee75e82cdb867df6001801ad29bf462c1c7e0872a20af47a2e981744d4afcf0"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.i686-linux-gnu-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ecdd45920f19f3f69aa0d8286bdc5c53df4388fa"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "7460e1fa5d17bafd626b75f928349bee6afc0f7b31edd050cb827f9ea10f1a67"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.i686-linux-musl-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2121a6292f71e4b61a78b3db55c48c9e8088579a"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "447f781927f07ce1a736ff0cc9b3712e043c372d27c83984ab2b40f71feb915f"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.i686-linux-musl-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f4203d54ec2caf4fa6522f407bc676d0b385b2ac"
+os = "windows"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "acf6f2ad980e5016ca3c10e5b1f1a4b4eac02a902414b14abad03c4675446fde"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f7f7c8747c65b16322102211f3dd850f8a1ff239"
+os = "windows"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "856c1b62a0785312a85763a32d081ba2f21d1cbf65a39bb6fe5df3c1d012fae4"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "93e6998283671b34b88a8dcf5807f070ab6ea21c"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "418af66beb4ea06d9eb4f09e2f21664d216e23feddf6ba9630ce065ca5429869"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dd3c6f24d4dddea4b93d3d7aed2e33572e1917ed"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "c62d6c2df5832511b6620213563501e6f7a379ef1173820f5579ef1fc9ef0bd6"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "x86_64"
+git-tree-sha1 = "2bd5db7a5e63b8f82f8fa02a09b7ea90b05f10fd"
+os = "macos"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "5931d86aa66d8d1a523a56f58a84dadf45ce3b5805e3a752bd8f0558227236fe"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.x86_64-apple-darwin.tar.gz"
+[[Jinja2Cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d21c5ae735725abd1bb47b30a8636726ff6346d2"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "197eb4416d9eb557835f96fdeb2b508f6dbceea544b74be3efd9f681280be975"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6eeffd7b955e74aba049bd113b32453abf115e6a"
+libc = "glibc"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "59dae17f3123fb90925838fe4ddab829f225ca7fce8833ef4e7a7f5816bf291e"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b066c89d94a3752892f4ffb9d336730092c61d5f"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "7b9ad3b93ca004e51be1d5154842aba644e8da4cc4f8031c7b94cedf77d68289"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b5b2768718e404ca52a67bc81ba38bf203c53b31"
+libc = "musl"
+os = "linux"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "5701677db5fe3540a871afb2fdd1f9ac472511ece4f8af7eec71377e24d7ea8d"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Jinja2Cpp]]
+arch = "x86_64"
+git-tree-sha1 = "94c7118facf34a30f3f68e85c006840d008690a3"
+os = "freebsd"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "a45b64be046283f6a69d045c466276e929ee8c31de972dcd632b4c985e56133c"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.x86_64-unknown-freebsd.tar.gz"
+[[Jinja2Cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1834a0a21a8782ba394ed17f304a42d0e15e1c3b"
+os = "windows"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "8c52a2d44c99da24dbc46beb711b7c72c673400c60506aa3f94d12b6b3450800"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Jinja2Cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10ae0b9f637f4e5ab6cd429487cf282e397611a4"
+os = "windows"
+
+    [[Jinja2Cpp.download]]
+    sha256 = "b199b89ddc99aed03e6ae5ec37ddfd1bcdd98de0f1b650cdcc4d359ac55b708b"
+    url = "https://github.com/JuliaBinaryWrappers/Jinja2Cpp_jll.jl/releases/download/Jinja2Cpp-v1.3.2+0/Jinja2Cpp.v1.3.2.x86_64-w64-mingw32-cxx11.tar.gz"
